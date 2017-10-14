@@ -1,0 +1,14 @@
+{
+  "name": "copy-azure-sample",
+  "version": "0.0.0",
+  "description": "CopyAzureSample",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "yli"
+  }
+}
